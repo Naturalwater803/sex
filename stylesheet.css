@@ -1,6 +1,9 @@
 .header {
   font-size:40px;
-  color:pink;
+  color: rgb(255,42,188);
   width:100%;
   height:600px;
+  margin: 0 auto;
+  
+  
 }
